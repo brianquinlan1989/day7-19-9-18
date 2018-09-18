@@ -6,12 +6,9 @@
   text-align: center;
   background-color: red;
   padding-top: 17px;
-  box-sizing: border-box;
-}
-
-.error-btn:hover {
-  background-color: #cc0000;
-}
+  box-sizing: border-box; }
+  .error-btn:hover {
+    background-color: #cc0000; }
 
 .success-btn {
   width: 200px;
@@ -21,12 +18,9 @@
   text-align: center;
   background-color: #bada55;
   padding-top: 42px;
-  box-sizing: border-box;
-}
-
-.success-btn:hover {
-  background-color: #a8cf2d;
-}
+  box-sizing: border-box; }
+  .success-btn:hover {
+    background-color: #a8cf2d; }
 
 .dark-btn {
   width: 400px;
@@ -37,11 +31,8 @@
   background-color: black;
   padding-top: 92px;
   box-sizing: border-box;
-  color: white;
-}
-
-.dark-btn:hover {
-  background-color: #404040;
-}
+  color: white; }
+  .dark-btn:hover {
+    background-color: #404040; }
 
 /*# sourceMappingURL=style.css.map */
