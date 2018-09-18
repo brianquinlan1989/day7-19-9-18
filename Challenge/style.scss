@@ -1,0 +1,24 @@
+$colour1: #bada55;
+
+
+$colour2: #fafafa;
+
+
+$width: 200px;
+
+.wrapper {
+    background-color: $colour1;
+    color: $colour2;
+    width: $width;
+    
+    p {
+        font-family: sans-serif;
+        
+    }
+    
+    &:hover {
+        background-color: $colour2;
+        color: $colour1;
+    }
+    
+}

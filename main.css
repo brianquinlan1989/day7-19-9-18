@@ -1,0 +1,11 @@
+.wrapper {
+  width: 200px;
+  height: 200px;
+  background-color: #f44336; }
+  .wrapper p {
+    font-size: 30px;
+    color: #fafafa;
+    font-family: "open sans", sans-serif;
+    padding-top: 85px; }
+
+/*# sourceMappingURL=main.css.map */

@@ -1,0 +1,47 @@
+.error-btn {
+  width: 100px;
+  height: 50px;
+  font-size: 16px;
+  border-radius: 5px;
+  text-align: center;
+  background-color: red;
+  padding-top: 17px;
+  box-sizing: border-box;
+}
+
+.error-btn:hover {
+  background-color: #cc0000;
+}
+
+.success-btn {
+  width: 200px;
+  height: 100px;
+  font-size: 16px;
+  border-radius: 5px;
+  text-align: center;
+  background-color: #bada55;
+  padding-top: 42px;
+  box-sizing: border-box;
+}
+
+.success-btn:hover {
+  background-color: #a8cf2d;
+}
+
+.dark-btn {
+  width: 400px;
+  height: 200px;
+  font-size: 16px;
+  border-radius: 5px;
+  text-align: center;
+  background-color: black;
+  padding-top: 92px;
+  box-sizing: border-box;
+  color: white;
+}
+
+.dark-btn:hover {
+  background-color: #404040;
+}
+
+/*# sourceMappingURL=style.css.map */

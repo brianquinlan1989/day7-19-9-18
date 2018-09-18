@@ -1,0 +1,16 @@
+.wrapper {
+  background-color: #bada55;
+  color: #fafafa;
+  width: 200px;
+}
+
+.wrapper p {
+  font-family: sans-serif;
+}
+
+.wrapper:hover {
+  background-color: #fafafa;
+  color: #bada55;
+}
+
+/*# sourceMappingURL=style.css.map */

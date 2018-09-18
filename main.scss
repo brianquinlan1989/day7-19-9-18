@@ -1,0 +1,15 @@
+$logo-colour: #f44336;
+$text-colour: #fafafa;
+$font-name: "open sans", sans-serif;
+
+.wrapper {
+    width: 200px;
+    height: 200px;
+    background-color: $logo-colour;
+    p {
+        font-size: 30px;
+        color: $text-colour;
+        font-family: $font-name;
+        padding-top: 85px;
+    }
+}
